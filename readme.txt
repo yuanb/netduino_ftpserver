@@ -1,4 +1,4 @@
-﻿This is a slightly modified version of FTP server found from http://ntools.codeplex.com/
+﻿This is a slightly modified version of FTP server found on http://ntools.codeplex.com/
 
 a. NetworkStream buffer size is increased from 64 to 1024.
 b. FtpSession::Store function is modified to following
